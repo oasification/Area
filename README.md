@@ -10,12 +10,12 @@ A Hectare is 100 Are, 10,000 sq M
 A Decare is 10 Are, 1000 sq M
 
 
-An Are is 100 square metres 
-
-    10 metres by 10 metres 
+An Are is 100 sqM 10x10 M
 
 
+So 
+
+A square kilometre is 1 Million sqM
 
 
 
-</pre>
