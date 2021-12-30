@@ -18,4 +18,13 @@ So
 A square kilometre is 1 Million sqM
 
 
+A Quarter Acre is about ~1 Decare
+
+1 Acre is about ~4 Decare
+
+1 Acre is about ~0.25 Hectare 
+
+1 Hectare is about ~2.5 Acres
+
+
 
